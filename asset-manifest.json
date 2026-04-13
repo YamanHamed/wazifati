@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wazifati/static/css/main.90f3e6e1.css",
-    "main.js": "/wazifati/static/js/main.cd4d8faa.js",
+    "main.js": "/wazifati/static/js/main.2e54a0a7.js",
     "static/media/Cairo-Black.ttf": "/wazifati/static/media/Cairo-Black.8597c288edbfeffb1ce4.ttf",
     "static/media/Cairo-ExtraBold.ttf": "/wazifati/static/media/Cairo-ExtraBold.cb0a737da134f124d8d2.ttf",
     "static/media/Cairo-SemiBold.ttf": "/wazifati/static/media/Cairo-SemiBold.f7e55e47db10ba135327.ttf",
@@ -12,10 +12,10 @@
     "static/media/Cairo-ExtraLight.ttf": "/wazifati/static/media/Cairo-ExtraLight.77e39111c1a5ea1b8d68.ttf",
     "index.html": "/wazifati/index.html",
     "main.90f3e6e1.css.map": "/wazifati/static/css/main.90f3e6e1.css.map",
-    "main.cd4d8faa.js.map": "/wazifati/static/js/main.cd4d8faa.js.map"
+    "main.2e54a0a7.js.map": "/wazifati/static/js/main.2e54a0a7.js.map"
   },
   "entrypoints": [
     "static/css/main.90f3e6e1.css",
-    "static/js/main.cd4d8faa.js"
+    "static/js/main.2e54a0a7.js"
   ]
 }
